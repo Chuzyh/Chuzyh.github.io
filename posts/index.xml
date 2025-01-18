@@ -1,0 +1,26 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - OrangeUser Blog</title>
+        <link>http://Chuzyh.github.io/posts/</link>
+        <description>All Posts | OrangeUser Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>orange.user.233@gmail.com (Chuzyh)</managingEditor>
+            <webMaster>orange.user.233@gmail.com (Chuzyh)</webMaster><lastBuildDate>Fri, 17 Jan 2025 23:54:32 -0600</lastBuildDate><atom:link href="http://Chuzyh.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>研一Fall</title>
+    <link>http://Chuzyh.github.io/%E7%A0%94%E4%B8%80fall/</link>
+    <pubDate>Fri, 17 Jan 2025 23:54:32 -0600</pubDate>
+    <author>Chuzyh</author>
+    <guid>http://Chuzyh.github.io/%E7%A0%94%E4%B8%80fall/</guid>
+    <description><![CDATA[第一个学期有三门课： Mathematical Computation I: Matrix Computation Course Modern Applied Optimization Inverse Problems and Data Assimilation: A Machine Learning Approach Matrix Computation 这个课是计算数学轨必选，感觉和国内上的数值代数比较像，稍微更难一点，还多了点编程]]></description>
+</item>
+<item>
+    <title>AboutMe</title>
+    <link>http://Chuzyh.github.io/aboutme/</link>
+    <pubDate>Fri, 17 Jan 2025 22:30:40 -0600</pubDate>
+    <author>Chuzyh</author>
+    <guid>http://Chuzyh.github.io/aboutme/</guid>
+    <description><![CDATA[I&rsquo;m Zhuyiheng Chu, a Master&rsquo;s student in Computational and Applied Mathematics at the University of Chicago. I hold a Bachelor&rsquo;s degree in Information and Computing Science from Zhejiang University.
+I have a passion for solving complex problems, as demonstrated by my participation in numerous programming and mathematical competitions.
+Competitions &amp; Awards  Finalist, 2023 Mathematical Contest In Modeling (Top 1%) Second Prize, 2022 Contemporary Undergraduate Mathematical Contest in Modeling (Top 2%) Gold Medal, 2021 Collegiate Computer System &amp; Programming Contest, East China Site Gold Medal, 2021 China Collegiate Programming Contest, Guangzhou Site Silver Medal, 2021 ICPC Asia Shanghai Regional Contest Gold Medal, 2020 ICPC Asia Nanjing Regional Contest Gold Medal, 2020 China Collegiate Programming Contest, Mianyang Site  I’ve also gained industry experience during my internship at Momenta, where I applied deep learning algorithms to predict optimal vehicle paths using multimodal data.]]></description>
+</item>
+</channel>
+</rss>
