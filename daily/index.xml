@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dailies on OrangeUser Blog</title>
+    <link>http://Chuzyh.github.io/daily/</link>
+    <description>Recent content in Dailies on OrangeUser Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>orange.user.233@gmail.com (Chuzyh)</managingEditor>
+    <webMaster>orange.user.233@gmail.com (Chuzyh)</webMaster>
+    <lastBuildDate>Fri, 21 Mar 2025 19:26:30 -0500</lastBuildDate><atom:link href="http://Chuzyh.github.io/daily/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Atlanta旅行</title>
+      <link>http://Chuzyh.github.io/daily/atlanta%E6%97%85%E8%A1%8C/</link>
+      <pubDate>Fri, 21 Mar 2025 19:26:30 -0500</pubDate>
+      <author>orange.user.233@gmail.com (Chuzyh)</author>
+      <guid>http://Chuzyh.github.io/daily/atlanta%E6%97%85%E8%A1%8C/</guid>
+      <description>Day1 19:30 到达ATL机场，打车入住酒店，晚饭在酒店旁边Park27 Korean BBQ</description>
+    </item>
+    
+  </channel>
+</rss>
