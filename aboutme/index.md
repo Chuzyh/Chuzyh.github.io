@@ -25,6 +25,7 @@ I’ve also gained industry experience during my internship at Momenta, where I 
 - Use Python to mine low-performance scene data on the cluster and fine-tune the model to improve performance on 80% of the mined data while maintaining benchmark results on the original data.
 
 ### University of Chicago  
-**MPCS 55001 Algorithm Grader** | *Sept. 2024 – Present*  
+**MPCS Grader** | *Sept. 2024 – Present*  
+- Course: MPCS 55001 Algorithm, MPCS 55005 Advanced Algorithms
 - Graded Python algorithm design assignments for Master of Computer Science students.  
 
